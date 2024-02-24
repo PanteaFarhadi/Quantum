@@ -1,2 +1,2 @@
 # Quantum
-quantum projects
+here I share my quantum computing projects and simulations
